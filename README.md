@@ -1,15 +1,6 @@
 
 
-### Using Larger Headings
-
-* `#` = Largest Heading
-* `##` = Large Heading
-* `###` = Medium Heading
-
-### Updated README (Clear View + Large Headings)
-
-````markdown
-# GEOmine
+## GEOmine
 
 ## Overview
 GeoMine is a **Geospatial Intelligence System** designed to detect mineral resources by processing satellite imagery and geospatial datasets using **Machine Learning** and **Dimensionality Reduction** techniques.
@@ -57,7 +48,4 @@ python main.py
 
 This project is licensed under the **MIT License**.
 
-```
 
-Would you like me to **add bold colors and bigger text using HTML tags** for extra emphasis (works on GitHub)? Or keep it **pure Markdown**?
-```
