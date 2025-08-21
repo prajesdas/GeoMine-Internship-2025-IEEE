@@ -30,6 +30,7 @@ GeoMine is a **Geospatial Intelligence System** designed to detect mineral resou
 ### 4. Visualization & Validation
 - Mapping results to geospatial layers  
 - Validating with historical mineral data  
+<img width="1018" height="678" alt="Screenshot 2025-06-11 203017" src="https://github.com/user-attachments/assets/7f0f496a-bb9e-47f1-9659-f5cdbee3481d" />
 
 ## Tech Stack
 - **Python:** NumPy, Pandas, Scikit-learn  
